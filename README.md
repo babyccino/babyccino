@@ -10,7 +10,7 @@ I'm Gus, a software engineer currently based in England.
 
 ## 💪 Things I do for fun
 
-- 🧗🏻 [Climbing](https://www.instagram.com/p/Ciam2DgpMEB/)
+- 🧗🏻 [Climbing rocks](https://www.instagram.com/p/Ciam2DgpMEB/)
 - ⌨️ Coding
 - ... mostly just those two
 
