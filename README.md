@@ -10,10 +10,9 @@ I'm Gus, a software engineer currently based in England.
 
 ## 💪 Things I do for fun
 
-- 🏋 Climbing
+- 🧗🏻 [Climbing](https://www.instagram.com/p/Ciam2DgpMEB/)
 - ⌨️ Coding
-- 🤼 Open source
-- ✈️ Travel
+- ... mostly just those two
 
 ## 🧮 Stats
 [![Babyccino's GitHub stats](https://github-readme-stats.vercel.app/api?username=babyccino)](https://github.com/babyccino/)
