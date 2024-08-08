@@ -5,7 +5,7 @@ I'm Gus, a software engineer currently based in England.
 ## 🔧 Things I can do
 
 - 🖥️ Programming languages: Rust, TypeScript / JavaScript, Go, SQLite
-- 🖼️ Frameworks: React, Angular, Astro
+- 🖼️ Frameworks: Vue, React, Angular, Astro
 - 🤹 Other skills: AWS, Docker, WebGl, GraphQL, Git / GitHub
 
 ## 💪 Things I do for fun
